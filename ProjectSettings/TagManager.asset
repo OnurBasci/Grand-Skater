@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - araba
+  - "araba \xFCst\xFC"
+  - yol
+  - sopa
+  - "d\xFC\u015Fman"
+  - kedi
+  - limuzin
+  - item
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - yol 1
+  - araba
+  - yol 2
+  - yol 3
+  - player 1
+  - player 2
+  - player 3
+  - "g\xF6r\xFCnmez duvar"
+  - "d\xFC\u015Fen"
+  - "kald\u0131r\u0131mdakiler"
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: "kald\u0131r\u0131m"
+    uniqueID: 1174668909
+    locked: 0
+  - name: arka yol
+    uniqueID: 3493737817
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: kedi
+    uniqueID: 1037659363
+    locked: 0
+  - name: player
+    uniqueID: 2900529613
+    locked: 0
+  - name: tekerlek
+    uniqueID: 1941852755
+    locked: 0
+  - name: "\xE7izgi"
+    uniqueID: 2220409795
+    locked: 0
